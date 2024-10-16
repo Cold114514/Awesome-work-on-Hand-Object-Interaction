@@ -23,3 +23,7 @@ Awesome work on Hand-Object Interaction Synthesis and Reconstruction
 - HOIDiffusion: Generating Realistic 3D Hand-Object Interaction Data (CVPR 2024)
   - github: https://github.com/Mq-Zhang1/HOIDiffusion
   - main idea: controllable(eg. object, baackground) and realistic Hand-Object Interaction image synthesis
+ 
+- GeneOH Diffusion: Towards Generalizable Hand-Object Interaction Denoising via Denoising Diffusion(ICLR 2024)
+  - webpage: https://meowuu7.github.io/GeneOH-Diffusion/
+  - main idea: contact-centric representation, focus on hand trajectory
