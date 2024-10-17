@@ -24,6 +24,10 @@ Awesome work on Hand-Object Interaction Synthesis and Reconstruction
   - github: https://github.com/Mq-Zhang1/HOIDiffusion
   - main idea: controllable(eg. object, baackground) and realistic Hand-Object Interaction image synthesis
  
-- GeneOH Diffusion: Towards Generalizable Hand-Object Interaction Denoising via Denoising Diffusion(ICLR 2024)
+- GeneOH Diffusion: Towards Generalizable Hand-Object Interaction Denoising via Denoising Diffusion (ICLR 2024)
   - webpage: https://meowuu7.github.io/GeneOH-Diffusion/
   - main idea: contact-centric representation, focus on hand trajectory
+ 
+- DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions (SIGGRAPH Asia 2024)
+  - webpage: https://diffh2o.github.io/
+
