@@ -31,3 +31,9 @@ Awesome work on Hand-Object Interaction Synthesis and Reconstruction
 - DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions (SIGGRAPH Asia 2024)
   - webpage: https://diffh2o.github.io/
 
+- ManiDext: Hand-Object Manipulation Synthesis via Continuous Correspondence Embeddings and Residual-Guided Diffusion
+  - paper: https://www.arxiv.org/pdf/2409.09300
+ 
+- DexGraspNet 2.0: Learning Generative Dexterous Grasping in Large-scale Synthetic Cluttered Scenes
+  - paper: https://openreview.net/pdf?id=V6XHKFicwc
+
